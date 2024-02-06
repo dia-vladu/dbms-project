@@ -7,6 +7,6 @@ Contains:
 - insert into scripts
 - query operations
 
-Languages used: SQL
+Languages used: SQL & PL/SQL
 
 IDE used: Oracle SQL Developer
